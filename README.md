@@ -1,7 +1,7 @@
 ## Show Muted
 Download Show Muted [here](https://github.com/BoCentury/showmuted/releases). Only available on Windows 64-bit.  
   
-Questions, issues, and suggestions can be sent in the Show Muted [discord server](https://discord.gg/SWSuqvscEa) or on GitHub as an [issue](https://github.com/BoCentury/showmuted/issues).
+Questions, issues, and suggestions can be sent in the Show Muted [discord server](https://discord.gg/SWSuqvscEa) or on GitHub as an [issue](https://github.com/BoCentury/showmuted/issues) or [discussion](https://github.com/BoCentury/showmuted/discussions).
 
 ### About
 Show Muted is a program that changes from one solid color to another when you press your 'mute microphone' keybinds.  
