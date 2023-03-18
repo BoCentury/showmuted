@@ -1,3 +1,4 @@
+Show Muted 0.1.0
 
 INSTRUCTIONS:
 Go into Settings and set up the same Toggle-Mute and Push-to-Mute binds you have in Discord.
